@@ -6,10 +6,10 @@ This project evaluates e-commerce performance by tracking over ₹576M in revenu
 ## Dashboard Preview
 
 ### Revenue & Product Overview
-(Dashboard/Ecom_dashboard_1.png)
+![Global Overview](dashboard/Ecom_dashboard_1.jpg)
 
 ### Demographics & Regional Performance
-(Dashboard/Ecom_dashboard_2.png)
+![Country Specific](dashboard/Ecom_dashboard_2.jpg))
 
 ## Tech Stack
 * **Backend Data Manipulation:** MySQL (CTEs, Window Functions, Self-Joins)
